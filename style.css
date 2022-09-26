@@ -60,4 +60,7 @@ input.empty {
 	top: 85px;
   background-color: transparent;
 }
+.middlearea{
+  height: 200px !important;
+}
 
